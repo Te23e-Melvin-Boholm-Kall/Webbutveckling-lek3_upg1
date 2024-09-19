@@ -1,0 +1,33 @@
+/*Elev: Melvin Boholm Käll Klass: TE23E*/
+body{
+    background-image: url("./img/moorish-pattern.jpg");
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: #48cc1f;
+    background-color: whitesmoke;
+    text-align: right;
+}
+
+ul{
+    background-color: #ee1e90;
+}
+
+a{
+    color: #ddec06;
+}
+a:hover{
+    color: rgb(4, 130, 0);
+    background-color: rgb(24, 145, 145);
+}
+a:active{
+    color: rgb(30, 11, 201);
+    background-color: tomato;
+}
+
+img{
+    height:400px;
+    width:400px;
+}
